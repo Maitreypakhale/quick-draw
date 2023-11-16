@@ -1,0 +1,15 @@
+#time 
+{
+    float:right;
+}
+
+#score 
+{
+    float: left;
+}
+
+body
+{
+    background-color: greenyellow;
+
+}
